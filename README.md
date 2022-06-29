@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @InnerQi
-- 👀 I’m interested in Tai Chi, coding (novice) and working on interesting projects.
-- 🌱 I’m currently learning Javascript, Python and Data Science.
-- 💞️ I’m looking to collaborate on data science.
+- 👋 Hi, I am @InnerQi
+- 👀 I am interested in Tai Chi, coffee, coding and working on interesting projects.
+- 🌱 I am learning Python, data Science, and JavaScript.
+- 💞️ I am looking to collaborate on Python and data science projects.
 - 📫 You can reach me on Discord, CodeBrewed#1581.
 
 <!---
